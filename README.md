@@ -10,6 +10,8 @@ Download the latest Syncfusion Xamarin project template extension file (.mpack) 
 
 [v18.3.0.47](https://files2.syncfusion.com/Installs/v18.3.0.47/Mac/Syncfusion%20Xamarin%20VSMacExtensions.mpack)
 
+[v18.4.0.30](https://files2.syncfusion.com/Installs/v18.4.0.30/Mac/Syncfusion%20Xamarin%20VSMacExtensions.mpack)
+
 Then follow the steps from the next link to install the Syncfusion Xamarin project template extension in Visual Studio for Mac.
 
 https://help.syncfusion.com/xamarin/visual-studio-integration/visual-studio-mac-extensions/installation
