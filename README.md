@@ -4,6 +4,8 @@ The Syncfusion Essential Studio for Xamarin's Visual Studio for Mac extension al
 
 Download the latest Syncfusion Xamarin project template extension file (.mpack) from the following location.
 
+[v19.1.0.63](https://files2.syncfusion.com/Installs/v19.1.0.63/Mac/Syncfusion%20Xamarin%20VSMacExtensions.mpack)
+
 [v19.1.0.54](https://files2.syncfusion.com/Installs/v19.1.0.54/Mac/Syncfusion%20Xamarin%20VSMacExtensions.mpack)
 
 [v18.4.0.39](https://files2.syncfusion.com/Installs/v18.4.0.39/Mac/Syncfusion%20Xamarin%20VSMacExtensions.mpack)
